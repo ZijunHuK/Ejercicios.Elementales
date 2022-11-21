@@ -1,7 +1,7 @@
 
 package com.tiernoparla.ejercicios.elementales;
 
-import java.util.Scanner;
+import java.util.*;
     import java.lang.Math;
 
 public class EjerciciosElementales1 {
@@ -11,12 +11,14 @@ public class EjerciciosElementales1 {
     }
     
     public static void main(String[] args) {
-        
+        /*
         int count = 0;
         for(int i = 0; i < 9999; i++){
             if(prob(0.5)){count++;}
         }
         System.out.println(count);
+        */
+        
         /*
         final int num = 32;
         final int n = 16;
