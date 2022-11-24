@@ -1,14 +1,11 @@
 
 package com.tiernoparla.ejercicios.elementales;
 
-import java.util.*;
+    import java.util.*;
     import java.lang.Math;
 
 public class EjerciciosElementales1 {
     
-    public static boolean prob(double prob){
-        return Math.random() < prob;
-    }
     
     public static void main(String[] args) {
         /*
