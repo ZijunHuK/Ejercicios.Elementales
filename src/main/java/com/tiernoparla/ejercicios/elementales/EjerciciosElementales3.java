@@ -38,6 +38,4 @@ public class EjerciciosElementales3 {
             return num % NUMERO == 0;
         }
     
-    
-    
 } // EjerciciosElementales3
